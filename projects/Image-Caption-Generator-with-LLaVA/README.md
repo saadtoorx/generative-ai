@@ -41,7 +41,7 @@ A production-ready image captioning application powered by a local LLaVA vision-
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/saadtoorx/Image-Caption-Generator-with-LLaVA
 cd "Project 3 Image Caption Generation AI Project"
 ```
 
